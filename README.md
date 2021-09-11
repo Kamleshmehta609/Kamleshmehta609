@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate with backend developers
-- 📫 How to reach me : 9557285081
+- 📫 How to reach me : mehtakamlesh43@gmail.com
 
 <!---
 Kamleshmehta609/Kamleshmehta609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
